@@ -1,0 +1,14 @@
+.file-input{
+    border: hidden;
+    background-color: aqua;
+    width:90px;
+}
+input[type="file"]{
+    color: transparent;
+}
+.box{
+    padding-top: 10%;   
+}
+.name-part{
+    height: 100px;
+}
